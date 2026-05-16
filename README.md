@@ -48,7 +48,15 @@ total 0
 zeeshanshaikh@ZeeshansMacBook ~  %
 
 
+#Attaching all the pictures in this section as I was facing some error while pasting the pictures in the below section under Question 2:
+
 <img width="1637" height="1024" alt="Screenshot 2026-05-14 at 9 46 48 PM" src="https://github.com/user-attachments/assets/b8a8bb0c-ea89-4812-b46d-a43f4f7d52b1" />
+
+<img width="1637" height="1024" alt="Screenshot 2026-05-14 at 9 46 46 PM" src="https://github.com/user-attachments/assets/e0424b27-b12b-4355-8cf9-8511d1f3b443" />
+
+<img width="1637" height="1024" alt="Screenshot 2026-05-14 at 9 46 43 PM" src="https://github.com/user-attachments/assets/c920bee1-d1bb-4f1f-ac33-8af609b70657" />
+
+<img width="1637" height="1024" alt="Screenshot 2026-05-14 at 6 19 07 PM" src="https://github.com/user-attachments/assets/e902aa43-2e66-4566-9ece-2501e2b36833" />
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -87,14 +95,8 @@ Login: Chirag Date: Thu May 14 18:20:35 IST 2026
 zeeshanshaikh@ZeeshansMacBook ~ % 
 
 
-<img width="1637" height="1024" alt="Screenshot 2026-05-14 at 9 46 48 PM" src="https://github.com/user-attachments/assets/3768b0bd-02d9-4482-b877-8686584dc64c" />
-<img width="1637" height="1024" alt="Screenshot 2026-05-14 at 9 46 46 PM" src="https://github.com/user-attachments/assets/779de586-0680-473e-a34e-6c9631d4b076" />
-<img width="1637" height="1024" alt="Screenshot 2026-05-14 at 6 19 07 PM" src="https://github.com/user-attachments/assets/13746207-bb67-4204-a13d-1b6d42d5fdcf" />
-<img width="1637" height="1024" alt="Screenshot 2026-05-14 at 9 46 43 PM" src="https://github.com/user-attachments/assets/3b6339a7-c617-4a63-8f11-318ab751cdd2" />
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Question #3: 
+Question #3:
 
 # As Mac terminal did not support the linux commands for this section, I completed this section in KLLRCODA and pasted all the commands below
 
